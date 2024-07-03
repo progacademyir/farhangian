@@ -1,0 +1,1 @@
+ /Users/a1/Documents/Fonts/flutter-platformchannels-master/.dart_tool/flutter_build/13a5403c56e5431be93c6338eee29352/native_assets.yaml: 

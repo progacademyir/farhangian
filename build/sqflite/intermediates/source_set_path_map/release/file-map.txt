@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-0 C:\Users\GMK\.gradle\caches\transforms-3\5cd50c58a151cc2abdc7bb31251d8e54\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-core-1.6.0-1 C:\Users\GMK\.gradle\caches\transforms-3\81cd0bec52039d8d035e18a7b9cc1801\transformed\core-1.6.0\res
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-2 C:\Users\GMK\.gradle\caches\transforms-3\af319fa25aec8cfcc0915546102e095d\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-3 C:\Users\GMK\.gradle\caches\transforms-3\f1d1d83bbffe6436a8d5b8f0035245cd\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-main-4 C:\Users\GMK\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\res
+com.tekartik.sqflite-release-5 C:\Users\GMK\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\release\res
+com.tekartik.sqflite-pngs-6 C:\flutter-platformchannels-master\build\sqflite\generated\res\pngs\release
+com.tekartik.sqflite-resValues-7 C:\flutter-platformchannels-master\build\sqflite\generated\res\resValues\release
+com.tekartik.sqflite-rs-8 C:\flutter-platformchannels-master\build\sqflite\generated\res\rs\release
+com.tekartik.sqflite-mergeReleaseResources-9 C:\flutter-platformchannels-master\build\sqflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 C:\flutter-platformchannels-master\build\sqflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite-merged_res-11 C:\flutter-platformchannels-master\build\sqflite\intermediates\merged_res\release

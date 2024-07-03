@@ -1,0 +1,13 @@
+io.flutter.plugins.webviewflutter.webview_flutter_android-webkit-1.11.0-0 C:\Users\GMK\.gradle\caches\transforms-3\5887ca34706f697ff24d4b14db16baa3\transformed\webkit-1.11.0\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-window-java-1.0.0-beta04-1 C:\Users\GMK\.gradle\caches\transforms-3\5cd50c58a151cc2abdc7bb31251d8e54\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-core-1.6.0-2 C:\Users\GMK\.gradle\caches\transforms-3\81cd0bec52039d8d035e18a7b9cc1801\transformed\core-1.6.0\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-window-1.0.0-beta04-3 C:\Users\GMK\.gradle\caches\transforms-3\af319fa25aec8cfcc0915546102e095d\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-annotation-experimental-1.1.0-4 C:\Users\GMK\.gradle\caches\transforms-3\f1d1d83bbffe6436a8d5b8f0035245cd\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-main-5 C:\Users\GMK\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_android-3.16.4\android\src\main\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-release-6 C:\Users\GMK\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_android-3.16.4\android\src\release\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-pngs-7 C:\flutter-platformchannels-master\build\webview_flutter_android\generated\res\pngs\release
+io.flutter.plugins.webviewflutter.webview_flutter_android-resValues-8 C:\flutter-platformchannels-master\build\webview_flutter_android\generated\res\resValues\release
+io.flutter.plugins.webviewflutter.webview_flutter_android-rs-9 C:\flutter-platformchannels-master\build\webview_flutter_android\generated\res\rs\release
+io.flutter.plugins.webviewflutter.webview_flutter_android-mergeReleaseResources-10 C:\flutter-platformchannels-master\build\webview_flutter_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.webviewflutter.webview_flutter_android-mergeReleaseResources-11 C:\flutter-platformchannels-master\build\webview_flutter_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.webviewflutter.webview_flutter_android-merged_res-12 C:\flutter-platformchannels-master\build\webview_flutter_android\intermediates\merged_res\release
